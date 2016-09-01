@@ -1,0 +1,28 @@
+{
+  "name": "rightshark",
+  "version": "0.0.1",
+  "description": "A form validator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bonnieso/rightshark.git"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "keywords": [
+    "email",
+    "validator",
+    "form",
+    "validator"
+  ],
+  "author": "“Bonnie <contact@bonnieso.com> (http://github.com/bonnieso)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bonnieso/rightshark/issues"
+  },
+  "homepage": "https://github.com/bonnieso/rightshark#readme"
+}
