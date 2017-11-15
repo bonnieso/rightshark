@@ -2,10 +2,10 @@
 
 /**
  * Validate an email with given specs.
- * Default specs follow xxx@yy.yy pattern.
- * x can be a letter, integer, or symbol (".", "_", "-"). y can be a letter or number.
- * @param {string} email
- * @return {boolean}
+ * Default specs follow xxx@yy.zz pattern.
+ * x can be a letter, integer, or symbol (".", "_", "-"). y and z can be a letter or number.
+ * @param { string } email
+ * @return { boolean }
  */
 module.exports = function(email) {
 
