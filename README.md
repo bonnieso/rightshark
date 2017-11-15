@@ -2,6 +2,8 @@
 
 A lightweight email validator.
 
+Email address name supports letters, numbers, periods, dashes, and underscores. Anything else is considered invalid.
+
 ## Installation
 
   `npm install rightshark`
